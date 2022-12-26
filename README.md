@@ -1,2 +1,3 @@
-#Blog Site Built With React
-This a blog client side app built with react
+# Blog Client
+
+This project is a blog client built with react.
